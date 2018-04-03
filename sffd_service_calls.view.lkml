@@ -8,7 +8,7 @@ view: sffd_service_calls {
 ##addingn lines
 ##adding lines at 9
 ## adding lines at 10
-  dimension: als_unit {
+  dimension: als_unit_old_title{
     html: {{value}}}} ;;
     type: yesno
 
