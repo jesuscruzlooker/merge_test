@@ -1,4 +1,4 @@
-view: sffd_service_calls_v2 {
+view: sffd_service_calls_v2_new {
   sql_table_name: sf_thesis.sffd_service_calls ;;
 
   dimension: address {
@@ -9,7 +9,7 @@ view: sffd_service_calls_v2 {
 ##adding lines at 9
 ## adding lines at 10
 
-  dimension: als_unit_newtitle_butnofix {
+  dimension: als_unit_newtitle_butnofix_with_added {
     html: {{value}}}} ;;
     type: yesno
 
