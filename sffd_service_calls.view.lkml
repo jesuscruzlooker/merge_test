@@ -5,7 +5,7 @@ view: sffd_service_calls {
     type: string
     sql: ${TABLE}.address ;;
   }
-##addingn lines 
+##addingn lines
 ##adding lines at 9
 ## adding lines at 10
   dimension: als_unit {
