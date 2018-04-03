@@ -12,6 +12,8 @@ view: sffd_service_calls {
     html: {{value}}}} ;;
     # testing adding lines at 11
     type: yesno
+    ##adding lines at 13
+## adding lines at 14
     sql: ${TABLE}.als_unit ;;
   }
 
