@@ -16,7 +16,7 @@ view: sffd_service_calls {
     sql: ${TABLE}.als_unit ;;
   }
 
-  dimension_group: available_timestamp {
+  dimension_group: available_timestamp_v2 {
     type: time
     timeframes: [
       raw,
