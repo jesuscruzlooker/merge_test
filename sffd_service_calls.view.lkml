@@ -9,7 +9,7 @@ view: sffd_service_calls {
 ##adding lines at 9
 ## adding lines at 10
 
-  dimension: als_unit_newtitle {
+  dimension: als_unit_newtitle_butnofix {
     html: {{value}}}} ;;
     type: yesno
 
