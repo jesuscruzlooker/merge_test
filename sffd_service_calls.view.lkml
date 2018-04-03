@@ -7,6 +7,8 @@ view: sffd_service_calls {
   }
 
   dimension: als_unit {
+    html: {{value}}}} ;;
+    # testing adding lines at 11
     type: yesno
     sql: ${TABLE}.als_unit ;;
   }
