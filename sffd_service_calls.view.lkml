@@ -10,10 +10,8 @@ view: sffd_service_calls {
 ## adding lines at 10
   dimension: als_unit {
     html: {{value}}}} ;;
-    # testing adding lines at 11
     type: yesno
-    ##adding lines at 13
-## adding lines at 14
+
     sql: ${TABLE}.als_unit ;;
   }
 
