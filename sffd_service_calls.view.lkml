@@ -1,4 +1,4 @@
-view: sffd_service_calls {
+view: sffd_service_calls_v2 {
   sql_table_name: sf_thesis.sffd_service_calls ;;
 
   dimension: address {
