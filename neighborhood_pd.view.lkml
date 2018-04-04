@@ -1,6 +1,7 @@
 view: neighborhood_pd {
   sql_table_name: sf_thesis.neighborhood_pd ;;
 
+
   dimension: neighborhood_groupnew {
     type: string
     sql: ${TABLE}.neighborhood_group ;;
